@@ -94,7 +94,7 @@ def main():
     # 립 합성
     print("립 합성 이미지 생성 중...")
     try:
-        generate_before_after(str(img_path), TEST_LIP_COLORS["deep_red"])
+        generate_before_after(str(img_path), TEST_LIP_COLORS["pink"])
     except Exception as e:
         print(f"립 합성 실패: {e}")
 
