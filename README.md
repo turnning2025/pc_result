@@ -13,7 +13,7 @@
 5. 문제 시 주요 라이브러리만 설치 → pip install opencv-python numpy scikit-image mediapipe pandas
 
 # 작업 방식
-clone → branch → commit → pull → reabse(fetch) → push
+clone → branch → commit → pull → rebase(fetch) → push
 콜라보레이터 권한으로 포크 없이 클론만으로 직접 풀리퀘스트 가능
 
 # 참고 사항
