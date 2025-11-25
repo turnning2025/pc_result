@@ -17,6 +17,6 @@ clone → branch → commit → pull → reabse(fetch) → push
 콜라보레이터 권한으로 포크 없이 클론만으로 직접 풀리퀘스트 가능
 
 # 참고 사항
-- Repository 자체에 gitignore 적용 완료　→　업로드 시 개인정보 파일은 자동 필터링(venv 등)
+- Repository 자체에 gitignore 룰 적용 완료　→　업로드 시 개인정보 파일은 자동 필터링(venv 등)
 - 혹시 모르니 업로드 전에 .gitignore 파일 확인 후 업로드 할 것
 
