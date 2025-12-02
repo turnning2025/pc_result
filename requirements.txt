@@ -2,14 +2,14 @@
 
 #python -m venv .venv
 #20251202 -- 화요일 
-#python -m venv .venv
+######## python -m venv .venv
 
 
 # PowerShell 기준 활성화
 .\.venv\Scripts\Activate.ps1
 
 # 패키지 설치
-pip install -r requirements.txt
+###### pip install -r requirements.txt
 
 
 python==3.11.14
@@ -73,4 +73,5 @@ scikit-learn
 
 
 wheel                 0.45.1
+
 
